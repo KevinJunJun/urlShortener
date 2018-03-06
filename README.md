@@ -10,10 +10,11 @@
 ## HOW TO START
 
 ```bash
-# clone project
-git clone git@github.com:zenghj/urlShortener.git
-npm install
-npm run start
+1. 安装并启动mongoDB
+2. git clone git@github.com:zenghj/urlShortener.git
+3. cd urlShortener
+4. npm install
+5. npm run start
 ```
 
 ## TODO
