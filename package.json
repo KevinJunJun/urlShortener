@@ -1,0 +1,19 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "a simple urlShortener served with Express and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zenghj@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.0.3",
+    "body-parser": "^1.18.2",
+    "btoa": "^1.1.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.9"
+  }
+}
